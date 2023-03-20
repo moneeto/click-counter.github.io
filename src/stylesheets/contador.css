@@ -1,0 +1,15 @@
+.titulo{
+    font-size: 50px;
+}
+
+.contador {
+    background: black;
+    color: white;
+    min-width: 550px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dotted rgb(116, 116, 116);
+    font-size: 50px;
+}
