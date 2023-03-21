@@ -10,10 +10,6 @@ import { useTiempo } from "./hooks/useTiempo";
 import './stylesheets/tiempo.css'
 
 function App() {
-  
-
-
-
 
   const [segundos, setConteo] = useTiempo(10);
   const [numClics, setNumClics] = useState(0);
