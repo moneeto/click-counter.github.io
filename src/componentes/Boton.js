@@ -9,7 +9,7 @@ function Boton({texto, esBotonDeClic, manejarClic, segundos}){ // en vez de usar
 		disabled={segundos === 0}
 		onClick={manejarClic}
 		type='button'>
-			{texto}
+			{texto} 
 		</button>
 		</div>
 		
